@@ -4,6 +4,9 @@
 ### Descripción del Dataset y cómo se obtuvo
 ##### Los datos utilizados fueron extraídos del Sistema de Análisis de Choques (CAS), quienes registran los accidentes de tráfico que la policía de Nueva Zelanda ha reportado a la Agencia de Transporte. Cabe decir que no todos los choques son reportados a la policía y el nivel de información aumenta con el nivel de gravedad del accidente. Los datos están actualmente disponibles a partir del 1 de enero del 2000 y se actualizan trimestralmente. 
 
+Aqui el dataset:
+https://www.dropbox.com/s/uzzc82fhwc0mybb/Crash_Analysis_System_CAS_data.csv?dl=0
+
 ### Objetivos
 ##### Los accidentes de tráfico constituyen un problema importante en nuestra sociedad de todo el mundo. La organización Mundial de la Salud (OMS) estimó que 1,25 millones de muertes estaban relacionadas con lesiones por accidentes de tránsito en el año 2010. Por ende, se hizo un proceso completo de Machine Learning, desde la obtención de los datos, la realización del análisis exploratorio de datos y la formulación de un problema del mundo real en un modelo de Machine Learning.  
 
