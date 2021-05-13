@@ -7,6 +7,8 @@
 Aqui el dataset:
 https://www.dropbox.com/s/uzzc82fhwc0mybb/Crash_Analysis_System_CAS_data.csv?dl=0
 
+##### NOTA: este dataset no se subió al repositorio ya que era un archivo pesado. Se puede descargar en el link anterior.
+
 ### Objetivos
 ##### Los accidentes de tráfico constituyen un problema importante en nuestra sociedad de todo el mundo. La organización Mundial de la Salud (OMS) estimó que 1,25 millones de muertes estaban relacionadas con lesiones por accidentes de tránsito en el año 2010. Por ende, se hizo un proceso completo de Machine Learning, desde la obtención de los datos, la realización del análisis exploratorio de datos y la formulación de un problema del mundo real en un modelo de Machine Learning.  
 
