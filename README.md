@@ -12,6 +12,8 @@ https://www.dropbox.com/s/uzzc82fhwc0mybb/Crash_Analysis_System_CAS_data.csv?dl=
 
 ![image](https://user-images.githubusercontent.com/43154438/118164069-4a951180-b3e8-11eb-8a98-da553c9f03b8.png)
 
+##### Este es uno de los gráficos de importancia:
+
 ![image](https://user-images.githubusercontent.com/43154438/118164084-4e289880-b3e8-11eb-9e0b-bf9ae643f9e0.png)
 
 ##### N – Accidentes Sin heridos
