@@ -31,5 +31,5 @@ Se utilizó un algoritmo de Bosques Aleatorios de Decisión para hacer la predic
 
 ![image](https://user-images.githubusercontent.com/43154438/118164189-6ef0ee00-b3e8-11eb-9609-77056d08ec1f.png)
 
-Este tipo de análisis y modelos resulta útil para la prevención de accidentes por medio de la determinación de las características que más influyen en estos. La idea es hacer un enfoque en eliminar las dispociciones que más accidentes causan. 
+Este tipo de análisis y modelos resulta útil para la prevención de accidentes por medio de la determinación de las características que más influyen en estos. La idea es hacer un enfoque en eliminar las dispociciones que más accidentes causan y debe de saberse que esto es posible mediante la recolección de los datos correctos. 
 
