@@ -1,8 +1,7 @@
 # Accidentes_Fatales
 ## Predicción de los accidentes fatales en Nueva Zelanda 
 
-![image](https://user-images.githubusercontent.com/43154438/119208814-61330c80-ba69-11eb-8483-8e80099eec4b.png)
-
+![image](https://user-images.githubusercontent.com/43154438/119208865-86277f80-ba69-11eb-9314-cadeba315fe9.png)
 
 ### Descripción del Dataset y cómo se obtuvo
 Los datos utilizados fueron extraídos del Sistema de Análisis de Choques (CAS), quienes registran los accidentes de tráfico que la policía de Nueva Zelanda ha reportado a la Agencia de Transporte. Cabe decir que no todos los choques son reportados a la policía y el nivel de información aumenta con el nivel de gravedad del accidente. Los datos están actualmente disponibles a partir del 1 de enero del 2000 y se actualizan trimestralmente. 
