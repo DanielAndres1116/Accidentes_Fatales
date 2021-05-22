@@ -35,3 +35,4 @@ Se utilizó un algoritmo de Bosques Aleatorios de Decisión para hacer la predic
 
 Este tipo de análisis y modelos resulta útil para la prevención de accidentes por medio de la determinación de las características que más influyen en estos. La idea es hacer un enfoque en eliminar las dispociciones que más accidentes causan y debe de saberse que esto es posible mediante la recolección de los datos correctos. 
 
+También podemos ver el programa aquí: https://github.com/DanielAndres1116/Accidentes_Fatales_Prediccion/blob/main/MuertosAccidentesPrediccion.ipynb 
