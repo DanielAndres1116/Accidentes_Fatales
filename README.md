@@ -1,5 +1,5 @@
 # Accidentes_Fatales
-## Predicción de los accidentes fatales en Nueva Zelanda 
+## Análisis de las causas de accidentes en Nueva Zelanda 
 
 ![image](https://user-images.githubusercontent.com/43154438/119208865-86277f80-ba69-11eb-9314-cadeba315fe9.png)
 
